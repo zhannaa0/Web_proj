@@ -1,0 +1,36 @@
+header {
+    background: linear-gradient(rgb(0,0,0,0.9), rgb(0,0,0,0.6), rgb(0,0,0,0.3), rgb(0,0,0,0)), url(images/photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 750px;
+}
+
+.stars img{
+  width: 20px;
+  height: 20px;
+}
+
+nav {
+  font-size: 18px;
+}
+
+.carousel-control-prev,
+    .carousel-control-next {
+        background-color: grey;
+        color: white;
+
+        
+    }
+
+
+.btn-white .navbar-toggler-icon {
+    color: white;
+  }
+
+.custom-toggler-icon {
+    background-color: white;
+  }
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.877);
+  }
